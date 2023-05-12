@@ -1,4 +1,3 @@
-
 export const fetchRequest = async (urlPath, options={}) => {
   try {
     const BASE_URL =
